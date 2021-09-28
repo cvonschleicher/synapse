@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--cvons-cvonsstorg",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/a5565b57-b0e9-4c53-88e6-a2c7996f3291/resourceGroups/TrainingRG/providers/Microsoft.Storage/storageAccounts/cvonsstorg",
+		"groupId": "dfs",
+		"fqdns": [
+			"cvonsstorg.dfs.core.windows.net"
+		]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--cvons",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/a5565b57-b0e9-4c53-88e6-a2c7996f3291/resourceGroups/TrainingRG/providers/Microsoft.Synapse/workspaces/cvons",
+		"groupId": "sql",
+		"fqdns": [
+			"cvons.9c042be6-f302-4770-a8e8-4992289f6ae7.sql.azuresynapse.net"
+		]
+	}
+}
